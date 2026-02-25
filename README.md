@@ -5,7 +5,7 @@
 
 ### AIM:
 To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
-### Software Required:
+### SOFTWARE REQUIRED:
 Google Colab
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
