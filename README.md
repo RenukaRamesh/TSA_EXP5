@@ -4,7 +4,7 @@
 ### Reg.no: 212223240136
 
 ### AIM:
-To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
+To Illustrates how to perform time series analysis and decomposition on retail sales data
 ### SOFTWARE REQUIRED:
 Google Colab
 ### ALGORITHM:
